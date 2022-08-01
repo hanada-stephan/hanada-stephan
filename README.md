@@ -2,7 +2,7 @@
 
 - 📖 Estudando data science, machine learning e inteligência artificial.
 - 💞️ Contador de histórias usando dados. 
-- 🧠 Competidor no Kaggle´.
+- 🧠 Competidor no Kaggle.
 - 🏓 Mesa-tenista nas horas vagas.
 - 🔒 Conta antiga: https://github.com/stephan-hanada
 
