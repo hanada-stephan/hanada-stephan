@@ -7,7 +7,7 @@
 - 🔒 Conta antiga: https://github.com/stephan-hanada
 
 <div align="center">
-  <a href="https://github.com/stephan-hanada">
+  <a href="https://github.com/hanada-stephan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanada-stephan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanada-stephan&langs_count=7&theme=dark"/>
 </div>
