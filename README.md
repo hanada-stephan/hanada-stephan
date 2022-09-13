@@ -1,7 +1,8 @@
 ## Saudações, eu sou Stephan Hanada! 
 
-- 📖 Estudando data science, machine learning e inteligência artificial.
-- 💞️ Contador de histórias usando dados. 
+- :bar_chart: Analista & Cientista de dados
+- 📖 Aprimorando conhecimentos em data science, machine learning e inteligência artificial.
+- :speech_balloon: Contador de histórias usando dados. 
 - 🧠 Competidor no Kaggle.
 - 🏓 Mesa-tenista nas horas vagas.
 - 🔒 Conta antiga: https://github.com/stephan-hanada
