@@ -1,4 +1,4 @@
-## Hello, I'm Stephan, and welcome to my Github!
+## Hello! I'm Stephan, and welcome to my Github!
 Here you will find my data science, machine learning, and deep learning projects, such as
 - credit card fraud detection;
 - customer churn prediction;
