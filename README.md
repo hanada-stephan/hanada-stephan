@@ -1,11 +1,19 @@
-## Saudações, eu sou Stephan Hanada! 
+## Hello, I'm Stephan, and welcome to my Github!
+Here you will find my data science, machine learning, and deep learning projects, such as
+- credit card fraud detection;
+- customer churn prediction;
+- breast cancer detection using ensemble learning;
+- time series analysis and predictions;
+- IMDB review analysis using language models;
+- image classification using neural networks. 
 
-- :bar_chart: Analista & Cientista de dados
-- 📖 Aprimorando conhecimentos em data science, machine learning e inteligência artificial.
-- :speech_balloon: Contador de histórias usando dados. 
-- 🧠 Competidor no Kaggle.
-- 🏓 Mesa-tenista nas horas vagas.
-- 🔒 Conta antiga: https://github.com/stephan-hanada
+
+Who am I?
+- :bar_chart: Data scientist and data analyst;
+- 📖 Increasing my data science, machine learning, and deep learning skills.
+- :speech_balloon: Extracting insights and telling stories with data.
+- 🧠 Kaggle competitor.
+- 🏓 Table tennis player.
 
 <div align="center">
   <a href="https://github.com/hanada-stephan">
