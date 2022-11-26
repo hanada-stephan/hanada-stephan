@@ -8,7 +8,7 @@ Here you will find my data science, machine learning, and deep learning projects
 - image classification using neural networks. 
 
 
-Who am I?
+But, who am I?
 - :bar_chart: Data scientist and data analyst;
 - 📖 Increasing my data science, machine learning, and deep learning skills.
 - :speech_balloon: Extracting insights and telling stories with data.
