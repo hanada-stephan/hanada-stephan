@@ -15,7 +15,7 @@ But, who am I?
 - 🧠 Kaggle competitor.
 - 🏓 Table tennis player.
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/hanada-stephan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanada-stephan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanada-stephan&langs_count=7&theme=dark"/>
@@ -29,7 +29,6 @@ But, who am I?
   <img align="center" alt="Docker" height="50" width="80" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="aws" height="50" width="80" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
   </div>
-   -->
 ##
   
 <div> 
