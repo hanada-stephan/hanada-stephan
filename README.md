@@ -27,9 +27,7 @@ But, who am I?
   <img align="center" alt="jupyter" height="50" width="80" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">  
   <img align="center" alt="git" height="50" width="80" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Docker" height="50" width="80" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="aws" height="50" width="80" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
   </div>
-##
   
 <div> 
   <a href="https://www.linkedin.com/in/stephan-hanada/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
